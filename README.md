@@ -1,7 +1,7 @@
 # Table_Data_Extraction
 Extracts table data from image and converts to excel file using East text detection and Tesseract OCR
 
-##package requirements
+## package requirements
 OpenCV-python
 pytesseract
 numpy
