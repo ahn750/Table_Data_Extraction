@@ -15,6 +15,7 @@ tesseract
 ## East Text detection model
 https://www.kaggle.com/yelmurat/frozen-east-text-detection
 
+##
 ![sample_image](/Test_image/10.png)
 
 ![batches](/Test_image/batch10.png)
