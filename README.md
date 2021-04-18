@@ -4,6 +4,7 @@ Extracts table data from image and converts to excel file using East text detect
 ## package requirements
 * OpenCV-python
 * pytesseract
+* tesseract
 * numpy
 * imutils
 * matplotlib
