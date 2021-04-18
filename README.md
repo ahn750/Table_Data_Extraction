@@ -4,11 +4,16 @@ Extracts table data from image and converts to excel file using East text detect
 ## package requirements
 * OpenCV-python
 * pytesseract
-* tesseract
 * numpy
 * imutils
 * matplotlib
 * pandas
+
+## Installations
+tesseract
+
+## East Text detection model
+https://www.kaggle.com/yelmurat/frozen-east-text-detection
 
 ![sample_image](/Test_image/10.png)
 
